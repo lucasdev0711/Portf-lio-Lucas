@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    color: white;
+    
+}
+body{
+    background-color: black;
+}
+.nav a{
+    color: white;
+}
+.nav a:hover{
+    color: gray;
+}
+.nav a:hover{
+    color: gray;
+}
+.nav{
+    color: white;
+    
+}
+#nav{
+    width: 90%;
+    
+}
+#nav li{
+    margin-left: 13vw;
+}
+#logo{
+    width: 80px;
+}
+section{
+    height: 800px;
+    background: linear-gradient(135deg, #111 40%, gray 60%, white);
+}
+#title1{
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    color: white;
+    font-size: 55px;
+    font-weight: lighter;
+    margin-top: 50%;
+}
+#title2{
+    width: 100%;
+    font-family: "Staatliches", sans-serif;
+    color: white;
+    font-size: 60px;
+    margin-left: 15%;
+}
+#sobremim{
+    height: 700px;
+    color: white;
+    background-color: black;
+    display: flex;
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: lighter;
+}
+#pts{
+    background-color: #666666;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 25%;
+    border-radius: 10px;
+    width: 20%;
+    height: 400px;
+}
+#pts p{
+    margin-top: 5%;
+}
+#pts h1{
+    margin-top: 4%;
+}
+#sobre{
+    text-align: justify;
+    margin-top: 6%;
+    margin-left: 12%;
+    width: 30%;
+}
+#sobre p{
+    font-size: 30px;
+    margin-top: 6%;
+}
+#sobremim h1{
+    font-weight: 300;
+    font-size: 50px;
+}
+footer{
+    background-color: black ;
+    color: white;
+}
+footer img{
+    height: 50px;
+}
+#footerlucas{
+    color: white;
+}
+
+svg {
+    color: #fff;
+    width: 30px;
+}
+.redes{
+    margin-right: 3%;
+}
+#carouselExample{
+    background-color: #666666;
+    width: 40%;
+    height: 60%;
+    margin-left: 6%;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 5%;
+    
+}
+.carousel-item h1{
+    margin-top: 3%;
+}
+#hard{
+    margin-top: 5%;
+    
+    width: 60%;
+    margin-left: 15%;
+    text-align: center;
+}
+#soft{
+    margin-top: 5%;
+    width: 30%;
+    margin-left: 40%;
+    text-align: center;
+}
+#hardpc{
+    display: flex;
+}
+#hardpc svg{
+    width: 55px;
+}
+.hardskills{
+    margin-left: 10%;
+}
+#hardeng{
+    display: flex;
+}
+#hardgoogle{
+    display: flex;
+}
+#softper{
+    display: flex;
+}
+#softesf{
+    display: flex;  
+}
+#softpon{
+    display: flex;    
+}
+.softskils{
+    margin-left: 10%;
+}
+#eng{
+    margin-top: 1%;
+    margin-left: 16%;
+}
+#eu{
+    height: 717px;
+}
+#Lucas{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    
+}
+#soft svg{
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
